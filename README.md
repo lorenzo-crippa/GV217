@@ -1,5 +1,6 @@
 # GV217
-Conflict Analysis (GV217) - Department of Government, University of Essex
+## Department of Government, University of Essex
+## Conflict Analysis
 
 **Materials for the 2019/20 academic year**
 
